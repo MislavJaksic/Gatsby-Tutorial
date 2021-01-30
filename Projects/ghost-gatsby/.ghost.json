@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "https://mislav-jaksic.from.hr",
+    "contentApiKey": "839235247bb63e32b9955fe501"
+  },
+  "production": {
+    "apiUrl": "https://mislav-jaksic.from.hr",
+    "contentApiKey": "839235247bb63e32b9955fe501"
+  }
+}
